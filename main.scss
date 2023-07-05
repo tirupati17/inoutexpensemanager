@@ -7,7 +7,7 @@ $body-color: #f0f0f0;  // or any valid color value
 $header-image: "{{ site.cover_image }}";
 $device-color: "assets/{{ site.device_color }}.png";
 
-$accent-color: {{ site.link_color }};
+$body-color: #f0f0f0;  // or any valid color value
 
 $header-title-color: {{ site.topbar_title_color }};
 $app-title-color: {{ site.app_title_color }};
