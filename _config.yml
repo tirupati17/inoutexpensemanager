@@ -18,7 +18,7 @@ app_description                           : Take charge of your finances with In
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
-
+excerpt_separator: ""
 
 # Information About Yourself
 your_name                                 : Tirupati Balan
@@ -130,7 +130,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - any_additional_item 
-  
+
 collections:
   pages:
     output: true
