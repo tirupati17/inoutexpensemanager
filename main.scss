@@ -2,7 +2,7 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-$body-color: {{ site.body_background_color }};
+$body-color: #f0f0f0;  // or any valid color value
 
 $header-image: "{{ site.cover_image }}";
 $device-color: "assets/{{ site.device_color }}.png";
