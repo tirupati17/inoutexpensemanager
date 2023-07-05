@@ -122,7 +122,15 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - any_additional_item 
+  
 collections:
   pages:
     output: true
