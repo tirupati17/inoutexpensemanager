@@ -66,7 +66,7 @@ features:
 
   - title: Sync Across Devices
     description: Safely sync your financial data across multiple devices using iCloud for a seamless experience.
-    fontawesome_icon_name: cloud-sync-alt
+    fontawesome_icon_name: cloud
 
   - title: Enhanced Security
     description: Enable screen lock with Keychain Passcode, Touch ID, and Face ID to ensure that only you have access to your sensitive financial information.
@@ -80,16 +80,16 @@ features:
 
 # Theme Settings
 topbar_color                              : "#000000"
-topbar_transparency                       : 0.0
+topbar_transparency                       : 0.1
 topbar_title_color                        : "#000000"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.0
+cover_overlay_transparency                : 0.2
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#000000"
+body_background_color                     : "#ffffff"
 
 link_color                                : "#1d63ea"
 
@@ -98,12 +98,12 @@ app_price_color                           : "#000000"
 app_description_color                     : "#000000"
 
 feature_title_color                       : "#000000"
-feature_text_color                        : "#FFBF00"
+feature_text_color                        : "#666666"
 
 feature_icons_foreground_color            : "#1d63ea"
 feature_icons_background_color            : "#e6e6e6"
 
-social_icons_foreground_color             : "#FFBF00"
+social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
 
 footer_text_color                         : "#FFBF00"
