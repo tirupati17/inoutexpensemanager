@@ -2,10 +2,13 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
+{% capture header_image %}url('{{ site.cover_image }}'){% endcapture %}
+{% capture device_color %}url('assets/{{ site.device_color }}.png'){% endcapture %}
+
 :root {
     --body-color: #f0f0f0;
-    --header-image: '{{ site.cover_image }}';
-    --device-color: url('assets/{{ site.device_color }}.png');
+    --header-image: {{ header_image }};
+    --device-color: {{ device_color }};
     --header-title-color: {{ site.topbar_title_color }};
     --app-title-color: {{ site.app_title_color }};
     --app-price-color: {{ site.app_price_color }};
