@@ -23,7 +23,7 @@ excerpt_separator: ""
 # Information About Yourself
 your_name                                 : Tirupati Balan
 your_link                                 : www.tirupatibalan.com
-your_city                                 : Mumbai
+your_city                                 : 
 email_address                             : tirupati.balan@gmail.com
 facebook_username                         :                                           
 instagram_username                        :
@@ -80,12 +80,12 @@ features:
 
 # Theme Settings
 topbar_color                              : "#000000"
-topbar_transparency                       : 0.1
+topbar_transparency                       : 0.0
 topbar_title_color                        : "#000000"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.2
+cover_overlay_transparency                : 0.0
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
@@ -106,7 +106,7 @@ feature_icons_background_color            : "#e6e6e6"
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
 
-footer_text_color                         : "#FFBF00"
+footer_text_color                         : "#000000"
 
 
 ####################################################
