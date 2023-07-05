@@ -22,7 +22,7 @@ InOut: Expense Manager may request permissions to access certain features on you
 InOut: Expense Manager allows users to backup and export their data. If you choose to use this feature, please be aware that the security of your data is your responsibility once it is exported from the app.
 
 ## Third-party Services
-InOut: Expense Manager does not include any third-party advertising or analytics software that communicates with third parties.
+InOut: Expense Manager does not include any third-party advertising software that communicates with third parties.
 
 ## Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
@@ -30,6 +30,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 ## Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: [tirupti.balan@gmail.com](mailto:contact@inout-expensemanager.com).
 
-This policy is effective as of [insert date].
-
-Note: Replace [insert date] with the actual date the policy takes effect.
+This policy is effective as of 5th Jul 2023.
