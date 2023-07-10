@@ -18,4 +18,10 @@ I believe that the best solutions come from real-life problems. This app is not 
 
 Are you ready to make managing your money easier? Let's get started!
 
-[![Download on the App Store](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/1200px-Download_on_the_App_Store_Badge.svg.png)](https://apps.apple.com/in/app/inout-expense-manager/id6450652473)
+#
+
+<div style="text-align:center;">
+<a href="https://apps.apple.com/in/app/inout-expense-manager/id6450652473">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/1200px-Download_on_the_App_Store_Badge.svg.png" width="200" height="59">
+</a>
+</div>
