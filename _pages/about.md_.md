@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-include_in_header: true
+include_in_header: false
 ---
 
 Hello! I'm Tirupati Balan, the person who made the InOut Expense Manager app. Let me tell you why I made this app.
