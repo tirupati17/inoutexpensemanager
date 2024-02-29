@@ -32,6 +32,7 @@ github_username                           : tirupati17
 youtube_username                          :
 mastodon_link                             :
 
+include: [".well-known"]
 
 
 features:
