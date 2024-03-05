@@ -1,30 +1,10 @@
 ---
 layout: page
-title: Terms & Privacy
+title: Privacy Policy
 include_in_footer: true
 ---
 
-# InOut - Expense Manager App Terms of Service
-
-## Acceptance of Terms
-
-By downloading, accessing, or using InOut - Expense Manager, you agree to abide by these terms of service. If you do not agree, please do not use our app.
-
-## License
-
-InOut - Expense Manager grants you a limited, non-exclusive, non-transferable license to use the app for your personal, non-commercial purposes.
-
-## Modifications to the Service
-
-We reserve the right to modify or discontinue, temporarily or permanently, the service (or any part thereof) with or without notice.
-
-## Privacy
-
-Your privacy is crucial to us. Data is securely stored on iCloud, with advanced security features ensuring the protection of your financial information.
-
-## Limitation of Liability
-
-Under no circumstances shall InOut - Expense Manager be liable for any direct, indirect, incidental, special, or consequential damages arising from your use of the app.
+# InOut - Expense Manager
 
 # Privacy Policy
 
