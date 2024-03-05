@@ -19,10 +19,6 @@ We employ robust security measures to protect your information, though no system
 InOut - Expense Manager may update this privacy policy periodically. We encourage users to review this policy frequently for any changes.
 
 ## Contact Us
-
-If you have any questions or suggestions about our Terms of Service or Privacy Policy, do not hesitate to contact us through the app's support feature.
-
-## Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: [tirupti.balan@gmail.com](mailto:tirupti.balan@gmail.com).
 
 This policy is effective as of 5th Jul 2023.

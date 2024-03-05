@@ -27,6 +27,6 @@ Your privacy is crucial to us. Data is securely stored on iCloud, with advanced 
 Under no circumstances shall InOut - Expense Manager be liable for any direct, indirect, incidental, special, or consequential damages arising from your use of the app.
 
 ## Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: [tirupti.balan@gmail.com](mailto:tirupti.balan@gmail.com).
+If you have any questions or suggestions about our Terms of Service, do not hesitate to contact us at: [tirupti.balan@gmail.com](mailto:tirupti.balan@gmail.com).
 
 This policy is effective as of 5th Jul 2023.
