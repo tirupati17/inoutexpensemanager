@@ -1,33 +1,50 @@
 ---
-layout: post
-title: Privacy Policy
-permalink: /privacy/
+layout: page
+title: Terms & Privacy
 include_in_footer: true
 ---
 
-# Privacy Policy for InOut: Expense Manager
+# InOut - Expense Manager App Terms of Service
 
-At InOut: Expense Manager, we respect your privacy and are committed to protecting it through our compliance with this policy.
+## Acceptance of Terms
 
-## Personal Information We Do Not Collect
-InOut: Expense Manager is designed with your privacy in mind. We do not store or transmit your personal information, and the app does not require an account creation. All your data remains solely on your device unless you choose to export it.
+By downloading, accessing, or using InOut - Expense Manager, you agree to abide by these terms of service. If you do not agree, please do not use our app.
+
+## License
+
+InOut - Expense Manager grants you a limited, non-exclusive, non-transferable license to use the app for your personal, non-commercial purposes.
+
+## Modifications to the Service
+
+We reserve the right to modify or discontinue, temporarily or permanently, the service (or any part thereof) with or without notice.
+
+## Privacy
+
+Your privacy is crucial to us. Data is securely stored on iCloud, with advanced security features ensuring the protection of your financial information.
+
+## Limitation of Liability
+
+Under no circumstances shall InOut - Expense Manager be liable for any direct, indirect, incidental, special, or consequential damages arising from your use of the app.
+
+# Privacy Policy
+
+## Information Collection and Use
+
+InOut - Expense Manager collects information necessary for the app's functionality and improving user experience. This includes transaction data and basic usage metrics.
 
 ## Data Security
-InOut: Expense Manager employs industry-standard security measures to ensure the integrity and security of your data on the app. However, remember that no method of electronic storage is 100% secure.
 
-## Permissions
-InOut: Expense Manager may request permissions to access certain features on your device such as notifications. These permissions are meant to enhance the functionality of the app. You have the option to either grant or deny these permissions.
+We employ robust security measures to protect your information, though no system is infallible. Your data is stored securely on iCloud, leveraging Apple's security protocols.
 
-## Data Backup and Export
-InOut: Expense Manager allows users to backup and export their data. If you choose to use this feature, please be aware that the security of your data is your responsibility once it is exported from the app.
+## Changes to This Policy
 
-## Third-party Services
-InOut: Expense Manager does not include any third-party advertising software that communicates with third parties.
-
-## Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+InOut - Expense Manager may update this privacy policy periodically. We encourage users to review this policy frequently for any changes.
 
 ## Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: [tirupti.balan@gmail.com](mailto:contact@inout-expensemanager.com).
+
+If you have any questions or suggestions about our Terms of Service or Privacy Policy, do not hesitate to contact us through the app's support feature.
+
+## Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: [tirupti.balan@gmail.com](mailto:tirupti.balan@gmail.com).
 
 This policy is effective as of 5th Jul 2023.
