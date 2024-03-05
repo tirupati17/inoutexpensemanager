@@ -4,7 +4,7 @@ title: Terms of Service
 include_in_footer: true
 ---
 
-# InOut - Expense Manager
+# Terms of Service
 
 ## Acceptance of Terms
 

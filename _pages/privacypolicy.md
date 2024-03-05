@@ -4,8 +4,6 @@ title: Privacy Policy
 include_in_footer: true
 ---
 
-# InOut - Expense Manager
-
 # Privacy Policy
 
 ## Information Collection and Use
