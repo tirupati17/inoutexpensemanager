@@ -34,6 +34,14 @@ include: [".well-known"]
 
 features:
 
+  - title: Amigo, Your AI Friend
+    description: Meet Amigo, your personal AI assistant in Amigo - AI Expense Manager. Amigo is more than just software; it's a companion that understands your financial habits and offers personalized advice, making finance management feel like a conversation with a friend.
+    fontawesome_icon_name: user-friends
+
+  - title: Seamless Statement Imports
+    description: Importing bank statements into Amigo - AI Expense Manager is a breeze. With just a few taps, you can upload your financial statements, and Amigo will help categorize and analyze your transactions, making it easier to keep track of your finances.
+    fontawesome_icon_name: file-import
+    
   - title: Intuitive Navigation
     description: Effortlessly navigate your finances with a sleek and straightforward interface designed for everyday use.
     fontawesome_icon_name: compass
@@ -46,10 +54,6 @@ features:
     description: Dive into your financial habits with detailed analytics and visualizations, helping you understand where your money goes and how to save more.
     fontawesome_icon_name: chart-pie
 
-  - title: Future-Ready Tech
-    description: Embrace the latest in technology with continuous updates for new iOS releases and seamless compatibility with Swift UI 3.0.
-    fontawesome_icon_name: mobile-alt
-
   - title: Simplified Tracking
     description: Organize your expenses and incomes with customizable categories and tags, making it easier to keep track of your financial landscape.
     fontawesome_icon_name: folder-open
@@ -59,7 +63,7 @@ features:
     fontawesome_icon_name: search-plus
 
   - title: Worldwide Access
-    description: Use InOut Expense Manager anywhere in the world, with support for local currencies and regional settings for global compatibility.
+    description: Use Amigo - AI Expense Manager anywhere in the world, with support for local currencies and regional settings for global compatibility.
     fontawesome_icon_name: globe-americas
 
   - title: Device Harmony
