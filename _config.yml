@@ -12,7 +12,7 @@ presskit_download_link                    :
 app_icon                                  : assets/appicon.png
 app_name                                  : Amigo - AI Expense Manager
 app_price                                 :
-app_description                           : Take charge of your finances with Amigo - AI Expense Manager, your ultimate companion in personal expense tracking and budget management.
+app_description                           : Embrace effortless finance management with Amigo - your AI-powered Expense Manager, guiding you towards smarter spending and saving.
 
 enable_smart_app_banner                   : true
 
@@ -34,79 +34,79 @@ include: [".well-known"]
 
 features:
 
-  - title: Amigo, Your AI Friend
-    description: Meet Amigo, your personal AI assistant in Amigo - AI Expense Manager. Amigo is more than just software; it's a companion that understands your financial habits and offers personalized advice, making finance management feel like a conversation with a friend.
+  - title: Amigo, Your AI Companion
+    description: Your financial buddy, Amigo, offers custom advice and insights, making money management feel like a breeze.
     fontawesome_icon_name: user-friends
 
-  - title: Seamless Statement Imports
-    description: Importing bank statements into Amigo - AI Expense Manager is a breeze. With just a few taps, you can upload your financial statements, and Amigo will help categorize and analyze your transactions, making it easier to keep track of your finances.
+  - title: Effortless Statement Sync
+    description: Uploading bank statements is seamless, allowing Amigo to sort and analyze your finances for you.
     fontawesome_icon_name: file-import
-    
-  - title: Intuitive Navigation
-    description: Effortlessly navigate your finances with a sleek and straightforward interface designed for everyday use.
+
+  - title: Fluid Interface
+    description: Navigate through your finances with ease, thanks to a clean and intuitive design.
     fontawesome_icon_name: compass
 
-  - title: iCloud Integration
-    description: Enjoy peace of mind with iCloud, ensuring your financial data is encrypted, backed up, and accessible only by you, with added security layers like Face ID and Touch ID.
+  - title: Trusted iCloud Security
+    description: Rest easy knowing your data is encrypted and stored securely with iCloud, protected by biometric locks.
     fontawesome_icon_name: cloud
 
-  - title: Smart Insights
-    description: Dive into your financial habits with detailed analytics and visualizations, helping you understand where your money goes and how to save more.
+  - title: Insights at a Glance
+    description: Visual reports turn complex data into understandable insights, helping you make informed decisions.
     fontawesome_icon_name: chart-pie
 
-  - title: Simplified Tracking
-    description: Organize your expenses and incomes with customizable categories and tags, making it easier to keep track of your financial landscape.
+  - title: Organize Effortlessly
+    description: Custom tags and categories mean tracking your transactions has never been easier or more personalized.
     fontawesome_icon_name: folder-open
 
-  - title: Quick Find
-    description: Instantly find any transaction with a robust search feature, allowing you to search by names, notes, and even hashtags.
+  - title: Find in a Flash
+    description: Powerful search capabilities let you pinpoint transactions instantly by various criteria.
     fontawesome_icon_name: search-plus
 
-  - title: Worldwide Access
-    description: Use Amigo - AI Expense Manager anywhere in the world, with support for local currencies and regional settings for global compatibility.
+  - title: Globally Geared
+    description: Amigo speaks your language, supporting various currencies and regional settings for universal use.
     fontawesome_icon_name: globe-americas
 
-  - title: Device Harmony
-    description: Experience your financial data in sync across all your devices, thanks to secure iCloud synchronization.
+  - title: Unified Across Devices
+    description: Keep your financial life in sync across devices with iCloud, ensuring access wherever you are.
     fontawesome_icon_name: sync-alt
 
-  - title: Privacy First
-    description: Guard your financial data with biometric security options like Face ID, Touch ID, and Keychain Passcode, keeping your information for your eyes only.
+  - title: Uncompromised Privacy
+    description: Your financial data stays private with advanced security features, accessible only to you.
     fontawesome_icon_name: user-shield
 
-  - title: Transaction Narratives
-    description: Add depth to your transactions with photos, locations, and rich links, crafting a detailed financial story.
+  - title: Rich Transaction Histories
+    description: Transactions come to life with added details like images and locations, creating a fuller financial picture.
     fontawesome_icon_name: file-image
 
-# Theme Settings
-topbar_color                              : "#000000"
+# Theme Settings - Dark Mode
+topbar_color                              : "#252627"
 topbar_transparency                       : 0.0
-topbar_title_color                        : "#000000"
+topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png
-cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.0
+cover_overlay_color                       : "#252627"
+cover_overlay_transparency                : 0.7
 
 device_color                              : black
 
-body_background_color                     : "#ffffff"
+body_background_color                     : "#252627"
 
-link_color                                : "#1d63ea"
+link_color                                : "#ffffff"
 
-app_title_color                           : "#000000"
-app_price_color                           : "#000000"
-app_description_color                     : "#000000"
+app_title_color                           : "#ffffff"
+app_price_color                           : "#ffffff"
+app_description_color                     : "#ffffff"
 
-feature_title_color                       : "#000000"
-feature_text_color                        : "#666666"
+feature_title_color                       : "#ffffff"
+feature_text_color                        : "#e6e6e6"
 
-feature_icons_foreground_color            : "#1d63ea"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color            : "#ffffff"
+feature_icons_background_color            : "#353839"
 
-social_icons_foreground_color             : "#666666"
-social_icons_background_color             : "#e6e6e6"
+social_icons_foreground_color             : "#ffffff"
+social_icons_background_color             : "#353839"
 
-footer_text_color                         : "#000000"
+footer_text_color                         : "#ffffff"
 
 ####################################################
 ### Jekyll Configuration. No need to touch this. ###
