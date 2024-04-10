@@ -87,7 +87,7 @@ cover_image                               : assets/headerimage.png
 cover_overlay_color                       : ""
 cover_overlay_transparency                : 1.0
 
-device_color                              : black
+device_color                              : blue
 
 body_background_color                     : "#252627"
 
