@@ -1,34 +1,34 @@
 #page title
-page_title                                : Amigo - AI Expense Manager
+page_title: Amigo - AI Expense Manager
 
 # App Info
-ios_app_id                                : 6450652473
-ios_app_country                           : us
+ios_app_id: 6450652473
+ios_app_country: us
 
-appstore_link                             : https://apps.apple.com/in/app/inout-expense-manager/id6450652473
-playstore_link                            :
-presskit_download_link                    :
+appstore_link: https://apps.apple.com/in/app/inout-expense-manager/id6450652473
+playstore_link:
+presskit_download_link:
 
-app_icon                                  : assets/appicon.png
-app_name                                  : Amigo - AI Expense Manager
-app_price                                 :
-app_description                           : Embrace effortless finance management with Amigo - your AI-powered Expense Manager, guiding you towards smarter spending and saving.
+app_icon: assets/appicon.png
+app_name: Amigo - AI Expense Manager
+app_price:
+app_description: Embrace effortless finance management with Amigo - your AI-powered Expense Manager, guiding you towards smarter spending and saving.
 
-enable_smart_app_banner                   : true
+enable_smart_app_banner: true
 
 excerpt_separator: ""
 
 # Information About Yourself
-your_name                                 : ♥
-your_link                                 : https://www.tirupatibalan.com
-your_city                                 :
-email_address                             : tirupati@tirupatibalan.com
-facebook_username                         :
-instagram_username                        :
-twitter_username                          :
-github_username                           : tirupati17
-youtube_username                          :
-mastodon_link                             :
+your_name: ♥
+your_link: https://www.tirupatibalan.com
+your_city:
+email_address: tirupati@tirupatibalan.com
+facebook_username:
+instagram_username:
+twitter_username:
+github_username: tirupati17
+youtube_username:
+mastodon_link:
 
 include: [".well-known"]
 
@@ -74,39 +74,39 @@ features:
     description: Your financial data stays private with advanced security features, accessible only to you.
     fontawesome_icon_name: user-shield
 
-  - title: Rich Transaction Histories
-    description: Transactions come to life with added details like images and locations, creating a fuller financial picture.
-    fontawesome_icon_name: file-image
+  # - title: Rich Transaction Histories
+  #   description: Transactions come to life with added details like images and locations, creating a fuller financial picture.
+  #   fontawesome_icon_name: file-image
 
 # Theme Settings - Dark Mode
-topbar_color                              : "#252627"
-topbar_transparency                       : 0.0
-topbar_title_color                        : "#ffffff"
+topbar_color: "#252627"
+topbar_transparency: 0.0
+topbar_title_color: "#ffffff"
 
-cover_image                               : assets/headerimage.png
-cover_overlay_color                       : ""
-cover_overlay_transparency                : 1.0
+cover_image: assets/headerimage.png
+cover_overlay_color: ""
+cover_overlay_transparency: 1.0
 
-device_color                              : blue
+device_color: blue
 
-body_background_color                     : "#252627"
+body_background_color: "#252627"
 
-link_color                                : "#007aff"
+link_color: "#007aff"
 
-app_title_color                           : "#ffffff"
-app_price_color                           : "#ffffff"
-app_description_color                     : "#ffffff"
+app_title_color: "#ffffff"
+app_price_color: "#ffffff"
+app_description_color: "#ffffff"
 
-feature_title_color                       : "#ffffff"
-feature_text_color                        : "#e6e6e6"
+feature_title_color: "#ffffff"
+feature_text_color: "#e6e6e6"
 
-feature_icons_foreground_color            : "#ffffff"
-feature_icons_background_color            : "#353839"
+feature_icons_foreground_color: "#ffffff"
+feature_icons_background_color: "#353839"
 
-social_icons_foreground_color             : "#ffffff"
-social_icons_background_color             : "#353839"
+social_icons_foreground_color: "#ffffff"
+social_icons_background_color: "#353839"
 
-footer_text_color                         : "#ffffff"
+footer_text_color: "#ffffff"
 
 ####################################################
 ### Jekyll Configuration. No need to touch this. ###
