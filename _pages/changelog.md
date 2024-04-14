@@ -1,139 +1,90 @@
 ---
 layout: page
 title: Version History
-include_in_header: true
+include_in_header: false
 ---
 
 # Changelog
-Keep up with the evolution of InOut Expense Manager. This document chronicles our journey of enhancements and updates to enrich your experience.
+Keep up with the evolution of InOut Expense Manager and Amigo AI. This document chronicles our journey of enhancements and updates to enrich your experience.
 
 <br>
 
 ### `Latest`
-# **Version 1.1.19**
+# **Version 2.0.0**
+### 14 Apr 2024
+Improved recurring experience and custom instruction support in Amigo AI.
+
+<br>
+
+# **Version 1.1.31**
+### 13 Apr 2024
+Meet Your New Financial Buddy: Recurring Transactions! Amigo just got smarter! Now, you can effortlessly keep track of transactions that happen on the regular—be it daily, weekly, or monthly. Just set it, filter it, and forget it until you need a nudge. Let Amigo handle the reminders so you can breeze through your financial to-dos!
+
+<br>
+
+# **Version 1.1.30**
+### 10 Apr 2024
+Improved amigo with budget focused!
+
+<br>
+
+# **Version 1.1.29**
+### 8 Apr 2024
+- Bored? Play 2048 game within the app only.
+- Bug fixes during iCloud sync for duplicate values on second install.
+
+<br>
+
+# **Version 1.1.28**
+### 5 Apr 2024
+Improvements & bug fixes.
+
+<br>
+
+# **Version 1.1.27**
+### 4 Apr 2024
+Introduced recurring payment with types daily, weekly, and with customization.
+
+<br>
+
+# **Version 1.1.26**
+### 31 Mar 2024
+Our very first watch app launched with minimum transaction details.
+
+<br>
+
+# **Version 1.1.25**
+### 29 Mar 2024
+Optimized for iPad and improvements.
+
+<br>
+
+# **Version 1.1.24**
+### 26 Mar 2024
+Now fully compatible for iPad and tab bar optimization and improved experience.
+
+<br>
+
+# **Version 1.1.23**
+### 24 Mar 2024
+Improved theme and support for dark mode only.
+
+<br>
+
+# **Version 1.1.22**
+### 21 Mar 2024
+Haptic, sounds, and tint optimization for smooth experience and most waited update i.e account-based transaction logging.
+
+<br>
+
+# **Version 1.1.21**
+### 19 Mar 2024
+Optimized amigo and haptic feedback.
+
+<br>
+
+# **Version 1.1.20**
 ### 18 Mar 2024
-Simplify your finance tracking with one-tap income and expense additions.
-
-<br>
-
-# **Version 1.1.18**
-### 17 Mar 2024
-- Optimized for iPad & Mac, expanding your financial management to more devices.
-- InOut bot enhancements for smoother, more intuitive interactions.
-
-<br>
-
-# **Version 1.1.17**
-### 15 Mar 2024
-Experience seamless import statement optimization for quicker financial reviews.
-
-<br>
-
-# **Version 1.1.16**
-### 15 Mar 2024
-Edit transaction types and names directly from the transaction view, making personalization easier.
-
-<br>
-
-# **Version 1.1.15**
-### 13 Mar 2024
-Adding expenses is now more streamlined, making it quicker to keep your finances up to date.
-
-<br>
-
-# **Version 1.1.14**
-### 11 Mar 2024
-Meet the InOut AI Assistant:
-- Customized financial insights and advice, powered by the latest ChatGPT Assistant API.
-- Smart, personalized interactions that understand your financial habits.
-- Continuous, context-aware conversations for dynamic financial guidance.
-
-<br>
-
-# **Version 1.1.13**
-### 10 Mar 2024
-General improvements and fixes to enhance app stability and performance.
-
-<br>
-
-# **Version 1.1.12**
-### 8 Mar 2024
-Introducing advanced analytics and personalized advice, now with direct bank statement imports and a ChatGPT-based financial advice chatbot for deeper insights.
-
-<br>
-
-# **Version 1.1.11**
-### 5 Mar 2024
-InOut bot UI improvements for an experience akin to native ChatGPT applications.
-
-<br>
-
-# **Version 1.1.10**
-### 4 Mar 2024
-Launch of the initial InOut AI chat feature, based on your GPT key, for personalized financial advice.
-
-<br>
-
-# **Version 1.1.9**
-### 3 Mar 2024
-Further optimizations to the import statement feature for enhanced performance.
-
-<br>
-
-# **Version 1.1.8**
-### 1 Mar 2024
-Continued improvements to the import statement functionality for smoother financial management.
-
-<br>
-
-# **Version 1.1.7**
-### 29 Feb 2024
-Enhanced insights for a deeper understanding of your finances, coupled with bug fixes for a smoother experience.
-
-<br>
-
-# **Version 1.1.6**
-### 26 Feb 2024
-Introduction of a new radar chart for a comprehensive overview of your financial portfolio, alongside performance enhancements.
-
-<br>
-
-# **Version 1.1.5**
-### 25 Feb 2024
-New bar chart implementation for improved financial visualization and app performance.
-
-<br>
-
-# **Version 1.1.4**
-### 19 Feb 2024
-General app improvements and fixes to ensure a seamless user experience.
-
-<br>
-
-# **Version 1.1.3**
-### 18 Feb 2024
-Continued enhancements and fixes to further refine the app's performance and reliability.
-
-<br>
-
-# **Version 1.1.2**
-### 16 Feb 2024
-This update brings:
-- The ability to sync transactions directly from your bank statement for real-time financial tracking.
-- Further user experience improvements for an even smoother journey through your finances.
-
-<br>
-
-# **Version 1.1.1**
-### 14 Feb 2024
-UI enhancements and fixes to elevate your interaction with the app.
-
-<br>
-
-# **Version 1.0.1**
-### 15 Jul 2023
-Initial updates focusing on user experience improvements to make financial management as seamless as possible.
-
----
-
-Your feedback drives our improvements! Don't hesitate to share your thoughts with us through the app.
+- Introduce Amigo your personal AI assistant.
+- Enhanced Security: With iCloud, your data stays safe and sound, accessible only by you.
+- Streamlined Experience: No servers, no logins – just you and your finances, in perfect harmony.
