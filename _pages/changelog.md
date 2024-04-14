@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 # Changelog
-Keep up with the evolution of InOut Expense Manager and Amigo AI. This document chronicles our journey of enhancements and updates to enrich your experience.
+Keep up with the evolution of Amigo AI. This document chronicles our journey of enhancements and updates to enrich your experience.
 
 <br>
 
