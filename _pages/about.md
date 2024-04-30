@@ -6,7 +6,7 @@ include_in_header: true
 
 # Amigo - AI: Your Smart Financial Companion
 
-![Amigo - AI](about/app_screen_shot.png)
+![Amigo - AI](assets/app_screen_shot.png)
 
 Welcome to Amigo - AI, where managing your personal finances becomes not just simpler but a truly engaging experience. Designed with carefully to leverage AI, Amigo - AI brings you a suite of tools tailored for budgeting, expense tracking, and delivering personalized financial advice right at your fingertips.
 
@@ -76,12 +76,12 @@ Enhance your iOS experience with Amigo - AI’s custom widgets, designed for qui
 ### Comprehensive Device Support
 Amigo AI is beautifully integrated across various Apple devices, including iPhone, iPad, and Apple Watch, ensuring a seamless user experience. Our responsive design means that whether you’re checking your finances on your phone, tablet, or watch, Amigo - AI provides a consistent, intuitive interface optimized for each device. Experience how Amigo - AI harnesses the power of Apple’s ecosystem to bring you a superior financial management tool that feels right at home on your chosen device.
 
-![Amigo - AI](about/security.png)
+![Amigo - AI](assets/security.png)
 ## Security and Data Privacy
 
 In an era where data security is paramount, Amigo - AI is built from the ground up with your privacy and security in focus. Here's how we ensure your financial information remains protected and confidential:
 
-![Amigo - AI](about/icloud.png)
+![Amigo - AI](assets/icloud.png)
 ### Secure Data Backup with iCloud
 
 Amigo - AI leverages iCloud for secure data backup, ensuring that your financial data is not only safe but also easily recoverable in case of device loss or damage. By utilizing Apple's built-in security mechanisms, we provide a robust solution for data storage without relying on third-party servers. Your data is encrypted end-to-end, meaning only you can access your information.
@@ -121,15 +121,15 @@ With Amigo - AI, rest assured that your financial data is handled with the utmos
 
 Amigo - AI expertly leverages the unique capabilities of Apple devices to deliver a superior and seamless user experience, meticulously optimized for each platform from the iPhone to the Mac. Here’s how Amigo - AI adapts to each device, providing intuitive and efficient financial management:
 
-![Amigo - AI](about/app_screen_shot.png)
+![Amigo - AI](assets/app_screen_shot.png)
 ### iPhone
 On the iPhone, Amigo - AI offers a portable and convenient way to manage your finances on the go. With touch and Face ID integration, accessing your financial overview is secure and instant. The app’s design utilizes the compact screen space effectively, ensuring that all functionalities are just a tap away.
 
-![Amigo - AI](about/ipad.png)
+![Amigo - AI](assets/ipad.png)
 ### iPad
 Taking full advantage of the larger screen, Amigo - AI on the iPad provides an expanded view of your financial landscape. Multi-tasking features and drag-and-drop functionality make it easier than ever to organize your finances while using other apps side by side.
 
-![Amigo - AI](about/watch.png)
+![Amigo - AI](assets/watch.png)
 ### Apple Watch
 For ultimate convenience, the Apple Watch app allows you to track spending and check your budgets directly from your wrist. Quick interactions and smart notifications keep you informed without disrupting your day. It’s perfect for adding transactions and getting alerts on the go.
 
