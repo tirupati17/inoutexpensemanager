@@ -8,7 +8,7 @@ include_in_header: true
 
 ![Amigo - AI](app_screen_shot.png)
 
-Welcome to Amigo - AI, where managing your personal finances becomes not just simpler but a truly engaging experience. Designed with cutting-edge AI technology, Amigo - AI brings you a suite of tools tailored for budgeting, expense tracking, and delivering personalized financial advice right at your fingertips.
+Welcome to Amigo - AI, where managing your personal finances becomes not just simpler but a truly engaging experience. Designed with carefully to leverage AI, Amigo - AI brings you a suite of tools tailored for budgeting, expense tracking, and delivering personalized financial advice right at your fingertips.
 
 ### Why Choose Amigo - AI?
 - **Privacy by Design**: Your financial data stays secure with top-tier encryption and privacy-first policies. Amigo - AI ensures your information is protected while providing you personalized insights.
