@@ -18,11 +18,17 @@ Welcome to Amigo - AI, where managing your personal finances becomes not just si
 With Amigo - AI, take control of your finances with confidence. Whether you're planning for future investments or just trying to manage daily expenses, Amigo is your reliable financial partner. Experience a new era of financial management where technology meets personal finance in a way that is accessible, understandable, and actionable.
 
 
-| Device           | Download Link                                                                                      |
+<div style="text-align:center;">
+<a href="https://apps.apple.com/in/app/inout-expense-manager/id6450652473">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/1200px-Download_on_the_App_Store_Badge.svg.png" width="200" height="59">
+</a>
+</div>
+
+<!-- | Device           | Download Link                                                                                      |
 |------------------|----------------------------------------------------------------------------------------------------|
 | **iPhone**       | [Download from the App Store for iPhone](https://apps.apple.com/mu/app/amigo-ai/id6450652473?platform=iphone) |
 | **Apple Watch**  | [Download for Apple Watch](https://apps.apple.com/mu/app/amigo-ai/id6450652473?platform=appleWatch)            |
-| **iPad**         | [Download for iPad](https://apps.apple.com/mu/app/amigo-ai/id6450652473?platform=ipad)                        |
+| **iPad**         | [Download for iPad](https://apps.apple.com/mu/app/amigo-ai/id6450652473?platform=ipad)                        | -->
 
 
 Join thousands who are already managing their finances smarter, faster, and more securely. Embrace the future of personal finance with Amigo - AI today!
@@ -154,7 +160,11 @@ For more information about how we handle your data and your rights, visit our de
 
 Ready to take control of your finances with ease and precision? Download Amigo - AI today and start your journey towards financial clarity and freedom.
 
-[Download Amigo - AI from the App Store](https://apps.apple.com/in/app/amigo-ai/id6450652473)
+<div style="text-align:center;">
+<a href="https://apps.apple.com/in/app/inout-expense-manager/id6450652473">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/1200px-Download_on_the_App_Store_Badge.svg.png" width="200" height="59">
+</a>
+</div>
 
 ### Follow Us
 
@@ -183,8 +193,4 @@ I believe that the best solutions come from real-life problems. This app is not 
 
 Are you ready to make managing your money easier? Let's get started! -->
 
-<div style="text-align:center;">
-<a href="https://apps.apple.com/in/app/inout-expense-manager/id6450652473">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/1200px-Download_on_the_App_Store_Badge.svg.png" width="200" height="59">
-</a>
-</div>
+
