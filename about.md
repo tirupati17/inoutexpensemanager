@@ -17,9 +17,13 @@ Welcome to Amigo - AI, where managing your personal finances becomes not just si
 
 With Amigo - AI, take control of your finances with confidence. Whether you're planning for future investments or just trying to manage daily expenses, Amigo is your reliable financial partner. Experience a new era of financial management where technology meets personal finance in a way that is accessible, understandable, and actionable.
 
-[Download from the App Store for iPhone](https://apps.apple.com/mu/app/amigo-ai/id6450652473?platform=iphone)
-[Download for Apple Watch](https://apps.apple.com/mu/app/amigo-ai/id6450652473?platform=appleWatch)
-[Download for iPad](https://apps.apple.com/mu/app/amigo-ai/id6450652473?platform=ipad)
+
+| Device           | Download Link                                                                                      |
+|------------------|----------------------------------------------------------------------------------------------------|
+| **iPhone**       | [Download from the App Store for iPhone](https://apps.apple.com/mu/app/amigo-ai/id6450652473?platform=iphone) |
+| **Apple Watch**  | [Download for Apple Watch](https://apps.apple.com/mu/app/amigo-ai/id6450652473?platform=appleWatch)            |
+| **iPad**         | [Download for iPad](https://apps.apple.com/mu/app/amigo-ai/id6450652473?platform=ipad)                        |
+
 
 Join thousands who are already managing their finances smarter, faster, and more securely. Embrace the future of personal finance with Amigo - AI today!
 
@@ -117,22 +121,21 @@ For more information about how we handle your data and your rights, visit our de
 
 ### Quick Links
 
-- [FAQ](link-to-faq) - Have questions? Find answers to frequently asked questions about Amigo - AI and how to make the most of its features.
-- [Support](link-to-support) - Need assistance? Our support team is here to help. Contact us for any issues or inquiries.
-- [Community Forum](link-to-forum) - Join the Amigo - AI community. Connect with other users, share tips, and learn how others are maximizing their financial potential with our app.
+- [FAQ](https://amigo.finance/faq) - Have questions? Find answers to frequently asked questions about Amigo - AI and how to make the most of its features.
+- [Support](https://amigo.finance/support) - Need assistance? Our support team is here to help. Contact us for any issues or inquiries.
+- [Community Forum](https://amigo.finance/discord) - Join the Amigo - AI community. Connect with other users, share tips, and learn how others are maximizing their financial potential with our app.
 
 ### Download Now
 
 Ready to take control of your finances with ease and precision? Download Amigo - AI today and start your journey towards financial clarity and freedom.
 
-[Download Amigo - AI from the App Store](link-to-app-store)
+[Download Amigo - AI from the App Store](https://apps.apple.com/in/app/amigo-ai/id6450652473)
 
 ### Follow Us
 
 Stay up-to-date with the latest updates and features:
-- [Instagram](link-to-instagram)
-- [Twitter](link-to-twitter)
-- [Facebook](link-to-facebook)
+- [Instagram](https://amigo.finance)
+- [Twitter](https://amigo.finance)
 
 <!-- ### Legal
 
