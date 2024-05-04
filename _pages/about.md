@@ -99,7 +99,7 @@ This iCloud-based solution not only enhances security by leveraging Apple's encr
 
 
 ### AIProxy for Secure OpenAI Requests
-Amigo - AI uses a third-party service called AIProxy from AIProxy.pro to handle secure interactions with OpenAI. Here’s how it helps keep your data safe:
+Amigo - AI uses a third-party service called AIProxy from <a href="https://www.aiproxy.pro">AIProxy</a> to handle secure interactions with OpenAI. Here’s how it helps keep your data safe:
 
 - **Secure Communication**: AIProxy acts as a middleman between Amigo - AI and OpenAI, making sure that all data sent and received is secure.
 - **Data Anonymization**: Before sending your data to OpenAI for processing, AIProxy removes any personal details that could identify you. This means only anonymous data is processed, keeping your personal information safe.
