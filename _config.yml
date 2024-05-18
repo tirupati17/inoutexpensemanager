@@ -89,7 +89,7 @@ cover_overlay_transparency: 1.0
 
 device_color: yellow
 
-body_background_color: "#f4f3fa"
+body_background_color: "#ffffff"
 
 link_color: "#007aff"
 
