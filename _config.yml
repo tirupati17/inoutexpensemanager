@@ -98,13 +98,13 @@ app_price_color: "#02040a"
 app_description_color: "#02040a"
 
 feature_title_color: "#02040a"
-feature_text_color: "#e6e6e6"
+feature_text_color: "#02040a"
 
 feature_icons_foreground_color: "#02040a"
 feature_icons_background_color: "#353839"
 
 social_icons_foreground_color: "#02040a"
-social_icons_background_color: "#353839"
+social_icons_background_color: "#02040a"
 
 footer_text_color: "#02040a"
 
