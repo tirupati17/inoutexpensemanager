@@ -104,7 +104,7 @@ feature_icons_foreground_color: "#02040a"
 feature_icons_background_color: "#353839"
 
 social_icons_foreground_color: "#02040a"
-social_icons_background_color: "#02040a"
+social_icons_background_color: "#ffffff"
 
 footer_text_color: "#02040a"
 
