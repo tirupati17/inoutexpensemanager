@@ -81,7 +81,7 @@ features:
 # Theme Settings - Dark Mode
 topbar_color: "#252627"
 topbar_transparency: 0.0
-topbar_title_color: "#00000"
+topbar_title_color: "#02040a"
 
 cover_image: assets/headerimage.png
 cover_overlay_color: "#ffffff"
@@ -91,22 +91,22 @@ device_color: yellow
 
 body_background_color: "#ffffff"
 
-link_color: "#git"
+link_color: "#007aff"
 
-app_title_color: "#00000"
-app_price_color: "#00000"
-app_description_color: "#00000"
+app_title_color: "#02040a"
+app_price_color: "#02040a"
+app_description_color: "#02040a"
 
-feature_title_color: "#00000"
+feature_title_color: "#02040a"
 feature_text_color: "#e6e6e6"
 
-feature_icons_foreground_color: "#00000"
+feature_icons_foreground_color: "#02040a"
 feature_icons_background_color: "#353839"
 
-social_icons_foreground_color: "#00000"
+social_icons_foreground_color: "#02040a"
 social_icons_background_color: "#353839"
 
-footer_text_color: "#00000"
+footer_text_color: "#02040a"
 
 ####################################################
 ### Jekyll Configuration. No need to touch this. ###
