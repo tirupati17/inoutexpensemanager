@@ -80,7 +80,7 @@ features:
 
 # Theme Settings - Dark Mode
 topbar_color: "#252627"
-topbar_transparency: 1.0
+topbar_transparency: 0.0
 topbar_title_color: "#02040a"
 
 cover_image: assets/headerimage.png
