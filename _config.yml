@@ -101,7 +101,7 @@ feature_title_color: "#02040a"
 feature_text_color: "#02040a"
 
 feature_icons_foreground_color: "#02040a"
-feature_icons_background_color: "#353839"
+feature_icons_background_color: "#ffffff"
 
 social_icons_foreground_color: "#02040a"
 social_icons_background_color: "#ffffff"
