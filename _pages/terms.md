@@ -37,4 +37,4 @@ These terms and conditions are effective as of 2024-03-05.
 
 **Contact Us**
 
-If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at tirupati.balan@gmail.com.
+If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at hello@amigo.finance
