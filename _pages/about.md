@@ -148,7 +148,7 @@ With Amigo - AI, enjoy a tailored financial management experience that respects 
 
 ## Stay Connected and Informed
 
-For more information about how we handle your data and your rights, visit our detailed [Privacy Policy](https://inout.today/privacy) and [Terms & Conditions](https://inout.today/terms). These documents provide a comprehensive overview of our practices and your privacy, ensuring you are fully informed about the security and usage of your data.
+For more information about how we handle your data and your rights, visit our detailed [Privacy Policy](https://amigo.finance/privacypolicy/) and [Terms & Conditions](https://amigo.finance/terms/). These documents provide a comprehensive overview of our practices and your privacy, ensuring you are fully informed about the security and usage of your data.
 
 <!-- ### Quick Links
 
@@ -156,7 +156,7 @@ For more information about how we handle your data and your rights, visit our de
 - [Support](https://amigo.finance/support) - Need assistance? Our support team is here to help. Contact us for any issues or inquiries.
 - [Community Forum](https://amigo.finance/discord) - Join the Amigo - AI community. Connect with other users, share tips, and learn how others are maximizing their financial potential with our app. -->
 
-For direct inquiries or further assistance, please contact Tirupati Balan at [tirupati@tirupatibalan.com](mailto:tirupati@tirupatibalan.com). Tirupati is committed to providing support and addressing your concerns promptly.
+For direct inquiries or further assistance, please contact Tirupati Balan at [hello@amigo.finance](mailto:hello@amigo.finance]). Tirupati is committed to providing support and addressing your concerns promptly.
 
 ### Download Now
 
