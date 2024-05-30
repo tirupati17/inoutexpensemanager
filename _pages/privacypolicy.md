@@ -26,6 +26,7 @@ Link to the privacy policy of third-party service providers used by the app:
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 *   [One Signal](https://onesignal.com/privacy_policy)
 *   [RevenueCat](https://www.revenuecat.com/privacy)
+*   [Countly](https://count.ly/privacy-policy)
 
 **Log Data**
 
@@ -63,6 +64,15 @@ The Amigo - AI app utilizes Google Sign-In to facilitate the extraction of trans
 **Google Workspace API Usage**
 
 The Amigo - AI app uses Google Workspace APIs to access your Gmail for transaction-related emails. We do not use the data obtained through these APIs to develop, improve, or train generalized AI and/or machine learning models. The information is strictly used to provide you with insights and manage your financial activities within the app.
+
+**What Google User Data We Access**
+
+Amigo - AI accesses the following Google user data through Google Workspace APIs:
+
+* **Email Metadata**: Including sender, recipient, date, and subject.
+* **Email Body Content**: Only for emails containing specific transaction-related keywords and patterns relevant to banking and financial activities.
+
+This data is used solely for the purpose of identifying and analyzing financial transactions to help you manage your finances.
 
 **Changes to This Privacy Policy**
 
