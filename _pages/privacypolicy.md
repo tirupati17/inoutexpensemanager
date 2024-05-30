@@ -56,6 +56,14 @@ I value your trust in providing us your Personal Information, thus we are strivi
 
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
+**Google Sign-In Usage**
+
+The Amigo - AI app utilizes Google Sign-In to facilitate the extraction of transaction-related emails. By using Google Sign-In, the app can access your Gmail account to search for specific transaction patterns in the email titles and bodies that are relevant to your banking and financial activities. This is done to provide you with personalized financial insights and better manage your personal finances. The sign-in information collected is solely used for this purpose and is not shared with or used by any other service within the app. No other usage of the sign-in information is maintained by our app.
+
+**Google Workspace API Usage**
+
+The Amigo - AI app uses Google Workspace APIs to access your Gmail for transaction-related emails. We do not use the data obtained through these APIs to develop, improve, or train generalized AI and/or machine learning models. The information is strictly used to provide you with insights and manage your financial activities within the app.
+
 **Changes to This Privacy Policy**
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
@@ -65,7 +73,3 @@ This policy is effective as of 2024-03-05
 **Contact Us**
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at hello@amigo.finance
-
-**Google Sign-In Usage**
-
-The Amigo - AI app utilizes Google Sign-In to facilitate the extraction of transaction-related emails. By using Google Sign-In, the app can access your Gmail account to search for specific transaction patterns in the email titles and bodies that are relevant to your banking and financial activities. This is done to provide you with personalized financial insights and better manage your personal finances. The sign-in information collected is solely used for this purpose and is not shared with or used by any other service within the app. No other usage of the sign-in information is maintained by our app.
