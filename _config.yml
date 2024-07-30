@@ -12,7 +12,7 @@ presskit_download_link:
 app_icon: assets/appicon.png
 app_name: Amigo - AI
 app_price:
-app_description: Embrace effortless finance management with Amigo - your AI-powered Expense Manager, guiding you towards smarter spending and saving.
+app_description: Amigo AI leverages advanced language models to provide personalized financial insights based on users' transaction data, emails, and statements. Our mission is to empower individuals to become more knowledgeable and proactive in managing their finances, leading to better financial well-being.
 
 enable_smart_app_banner: true
 
