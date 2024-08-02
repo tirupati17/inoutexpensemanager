@@ -4,10 +4,9 @@ title: More
 include_in_header: true
 ---
 
-## We are proud to be part of the Google Startup Program.
+## We are proud to be part of the Google Startup Program
 
 ![Google Startup Program Logo](https://inthecloud.withgoogle.com/startup/static/img/GoogleForStartups_Horizontal_RGB.png) 
-
 
 ## Seamless Financial Management Across All Your Devices
 
