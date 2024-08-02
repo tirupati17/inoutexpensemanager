@@ -4,7 +4,7 @@ title: More
 include_in_header: true
 ---
 
-## As part of the Google Startup Program, Amigo AI is revolutionizing personal finance management.
+## We are proud to be part of the Google Startup Program.
 
 ![Google Startup Program Logo](https://inthecloud.withgoogle.com/startup/static/img/GoogleForStartups_Horizontal_RGB.png) 
 
