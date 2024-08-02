@@ -8,7 +8,6 @@ include_in_header: true
 
 ![Google Startup Program Logo](https://inthecloud.withgoogle.com/startup/static/img/GoogleForStartups_Horizontal_RGB.png) 
 
----
 
 ## Seamless Financial Management Across All Your Devices
 
@@ -78,11 +77,11 @@ Amigo AI leverages cutting-edge generative AI models to provide you with accurat
 
 Utilizing advanced algorithms for precise financial forecasting and personalized advice.
 
-### Cloude 3.1
+### Claude 3.1
 
 Enhancing data processing capabilities to deliver real-time financial insights.
 
-### GPT 4o
+### GPT-4o
 
 Powering our AI with the latest language models for in-depth financial analysis and recommendations.
 
